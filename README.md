@@ -4,7 +4,7 @@ IT Systems Administrator II in Larnaca, Cyprus, focused on DevSecOps. I build th
 
 **Portfolio:** [mxenofontos.com](https://mxenofontos.com) · **LinkedIn:** [marios-xenofontos](https://www.linkedin.com/in/marios-xenofontos/) · **CV:** [PDF](https://mxenofontos.com/Marios-Xenofontos-CV.pdf)
 
-> My work repositories are private because they belong to the companies I build for. This page describes what they do and how they're built and secured. Happy to walk through any of it in an interview.
+> My work repositories are private because they belong to the companies I build for. This page describes what they do and how they're built and secured. Happy to talk through any of it.
 
 ---
 
