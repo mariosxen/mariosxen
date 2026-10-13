@@ -39,4 +39,4 @@ flowchart LR
 **Development:** TypeScript, Node.js, Hono, PostgreSQL, MCP, AI-assisted development
 **Infrastructure:** Ubuntu, Windows Server, VMware, Proxmox, Veeam, UniFi, Zabbix, Grafana
 
-📍 Larnaca, Cyprus · EU citizen · open to DevOps, cloud and platform roles · ✉️ mariosxen7@icloud.com
+📍 Larnaca, Cyprus · ✉️ mariosxen7@icloud.com
