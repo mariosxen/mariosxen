@@ -33,10 +33,11 @@ flowchart LR
 
 #### What I work with
 
-**Cloud & edge:** Cloudflare Workers, D1, R2, KV, Access, WAF · Microsoft 365, Entra ID, Intune
-**DevOps:** GitHub Actions, Wrangler, Docker, Nginx, Ansible
-**Security:** Zero Trust, Semgrep, dependency scanning, threat modelling, OWASP, GDPR
-**Development:** TypeScript, Node.js, Hono, PostgreSQL, MCP, AI-assisted development
-**Infrastructure:** Ubuntu, Windows Server, VMware, Proxmox, Veeam, UniFi, Zabbix, Grafana
+**Cloudflare:** Workers, Pages, D1, KV, R2, Durable Objects, Queues, Workflows, Workers AI, Vectorize, Hyperdrive, Email, Analytics Engine, Secrets Store, Access / Zero Trust, WAF, Turnstile, rate limiting, mTLS<br>
+**GitHub & CI/CD:** Actions (reusable and scheduled workflows, staging/production environments), Wrangler, Dependabot, CODEOWNERS, Gitleaks, actionlint, Semgrep<br>
+**Logging & checks:** Workers Logs, Logpush, audit and security event logs, Analytics Engine, health checks after deploy, uptime monitors, alerts, CSP and HSTS<br>
+**Development:** TypeScript, Node.js, Hono, React, Next.js, Vite, Tailwind, Zod, Drizzle, Prisma, Vitest, Playwright, MCP, AI-assisted development<br>
+**Microsoft & identity:** Microsoft 365, Entra ID, Intune, Conditional Access, passkey MFA<br>
+**Infrastructure:** Ubuntu, Windows Server, Docker, Nginx, Ansible, VMware, Proxmox, Veeam, UniFi, Zabbix, Grafana
 
 📍 Larnaca, Cyprus · ✉️ mariosxen7@icloud.com
