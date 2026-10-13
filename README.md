@@ -1,6 +1,6 @@
 ### Hi, I'm Marios 👋
 
-Systems administrator in Larnaca, Cyprus, moving into DevOps. I build the internal apps my company runs on with AI, then do the part AI won't do for you: secure them, ship them through CI/CD and keep them running on Cloudflare.
+IT Systems Administrator II in Larnaca, Cyprus, focused on DevSecOps. I build the internal apps my company runs on with AI, then do the part AI won't do for you: secure them, ship them through CI/CD and keep them running on Cloudflare.
 
 **Portfolio:** [mxenofontos.com](https://mxenofontos.com) · **LinkedIn:** [marios-xenofontos](https://www.linkedin.com/in/marios-xenofontos/) · **CV:** [PDF](https://mxenofontos.com/Marios-Xenofontos-CV.pdf)
 
