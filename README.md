@@ -37,7 +37,9 @@ flowchart LR
 **GitHub & CI/CD:** Actions (reusable and scheduled workflows, staging/production environments), Wrangler, Dependabot, CODEOWNERS, Gitleaks, actionlint, Semgrep<br>
 **Logging & checks:** Workers Logs, Logpush, audit and security event logs, Analytics Engine, health checks after deploy, uptime monitors, alerts, CSP and HSTS<br>
 **Development:** TypeScript, Node.js, Hono, React, Next.js, Vite, Tailwind, Zod, Drizzle, Prisma, Vitest, Playwright, MCP, AI-assisted development<br>
-**Microsoft & identity:** Microsoft 365, Entra ID, Intune, Conditional Access, passkey MFA<br>
+**Auth & identity:** Better Auth (open source, self-hosted on D1: email one-time codes, rate limits, secure sessions), Microsoft 365, Entra ID, Intune, Conditional Access, passkey MFA<br>
 **Infrastructure:** Ubuntu, Windows Server, Docker, Nginx, Ansible, VMware, Proxmox, Veeam, UniFi, Zabbix, Grafana
+
+I build with AI and on Cloudflare every day, so I keep up with both as they change.
 
 📍 Larnaca, Cyprus · ✉️ mariosxen7@icloud.com
